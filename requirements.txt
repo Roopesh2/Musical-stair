@@ -1,0 +1,22 @@
+# Spot light
+ - Arduino
+ - 2x ultrasonic sensor
+ - 8 realy
+    - 8*2 lights
+ - power supply
+ - wires = 20(cg) + 10 * 8 (series & parallel supply)
+
+# musical stairs
+
+ @ assuming 12 stairs
+ - 12 * photodiodes / led or 12 IR t/r
+ - wires : ~ 30m wire, + 10 jumpers
+ - rasberry, arduino, sdcard
+ OR
+ - arduino, microsd card & reader
+ - LM386 Audio Amplifier Module
+    OR
+    - LM386 Audio Amplifier
+    - 10uf Capacitor (2 Nos)
+    - 100uf Capacitor (2 Nos)
+    - 1K,10K Resistor
